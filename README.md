@@ -1,4 +1,4 @@
-# Somalifuscator
+# Batch-Somali-Obfuscator
 
 # READ
 
